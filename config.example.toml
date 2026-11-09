@@ -1,0 +1,14 @@
+# Copy to config.toml and list the characters to keep in sync.
+# Armory region: us, eu, kr or tw.
+region = "us"
+
+[[character]]
+# Armory name (as shown on the armory) or the full armory URL
+armory = "Your Character"
+# The Sixty Upgrades gear set to overwrite: open the set and copy the URL
+set = "https://sixtyupgrades.com/forever/character/XXXXXXXXXXXXXXXXXXXXXX/set/XXXXXXXXXXXXXXXXXXXXXX"
+
+# [[character]]
+# armory = "Another Toon"
+# set = "https://sixtyupgrades.com/forever/character/.../set/..."
+# region = "eu"   # optional per-character override
